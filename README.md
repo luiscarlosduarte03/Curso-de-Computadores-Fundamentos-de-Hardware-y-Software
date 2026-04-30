@@ -49,7 +49,7 @@ Proyecto de curso de computadores desarrollado en HTML por Luis Carlos Duarte.
     }
 
     img {
-        width: 250px;   /* 🔥 tamaño normal */
+        width: 250px;   
         height: auto;
         border-radius: 10px;
         display: block;
@@ -93,7 +93,6 @@ Proyecto de curso de computadores desarrollado en HTML por Luis Carlos Duarte.
 
 <section class="card">
     <h2>💻 Hardware</h2><img width="275" height="183" alt="hardware" src="https://github.com/user-attachments/assets/4c31e21c-16c1-4e1c-ae87-765adfb0fbee" />
-    <img src="hardware.
     <p>El hardware son las partes físicas del computador como la CPU, teclado, mouse, memoria RAM y disco duro.</p>
 </section>
 
