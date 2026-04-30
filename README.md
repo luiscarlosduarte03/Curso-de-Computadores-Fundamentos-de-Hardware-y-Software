@@ -93,15 +93,13 @@ Proyecto de curso de computadores desarrollado en HTML por Luis Carlos Duarte.
 
 <section class="card">
     <h2>💻 Hardware</h2><img width="275" height="183" alt="hardware" src="https://github.com/user-attachments/assets/4c31e21c-16c1-4e1c-ae87-765adfb0fbee" />
-
-    <img src="hardware.jpg">
+    <img src="hardware.
     <p>El hardware son las partes físicas del computador como la CPU, teclado, mouse, memoria RAM y disco duro.</p>
 </section>
 
 <section class="card">
     <h2>🧠 Software</h2>
     <img src="software.jpg"><img width="275" height="183" alt="software" src="https://github.com/user-attachments/assets/6e300fec-5b0e-4c1c-bd97-8fb00ea2ab82" />
-
     <p>El software son los programas que permiten el funcionamiento del computador, como Windows, Chrome o Word.</p>
 </section>
 
