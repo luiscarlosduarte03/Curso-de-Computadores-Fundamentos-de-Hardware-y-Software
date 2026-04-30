@@ -119,14 +119,7 @@ Proyecto de curso de computadores desarrollado en HTML por Luis Carlos Duarte.
 <section>
     <h2>📞 Contacto</h2>
 
-    <div class="card">
-        <p><strong>Nombre:</strong> Luis Carlos Duarte</p>
-        <p><strong>Teléfono:</strong> <a href="tel:3142032426">3142032426</a></p>
-        <p><strong>Email:</strong> luis.duarte02@uptc.edu.co</p>
-    </div>
 
-    <br>
-    <button onclick="mensaje()">Haz clic aquí</button>
 </section>
 
 <footer>
