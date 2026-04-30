@@ -1,9 +1,8 @@
-#Fundamentos de Hardware y Software
 
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Curso de Computadores - Luis Carlos Duarte</title>
+<title>Fundamentos de Hardware y Software - Luis Carlos Duarte</title>
 
 <style>
     body {
@@ -75,7 +74,7 @@
 <body>
 
 <header>
-    <h1>Curso de Computadores</h1>
+    <h1>Fundamentos de Hardware y Software</h1>
     <p>Creado por Luis Carlos Duarte</p>
 </header>
 
