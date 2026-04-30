@@ -1,6 +1,5 @@
 # Curso-de-Computadores-Fundamentos-de-Hardware-y-Software
 Proyecto de curso de computadores desarrollado en HTML por Luis Carlos Duarte.
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
